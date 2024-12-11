@@ -15,9 +15,9 @@ nav:
       - title: Home
         path: /
       - title: Themas
-        path: /docs/themas
+        path: /themas
       - title: API Documentatie
-        path: /docs 
+        path: /API 
       - title: Contact
         path: /contact
 
