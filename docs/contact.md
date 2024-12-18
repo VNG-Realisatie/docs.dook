@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Contact Datavoorziening Ondermijning Op de Kaart (DOOK)
+title: Contact Datavoorziening Onregelmatigheden Op de Kaart (DOOK)
 ---
 
 # Contact
