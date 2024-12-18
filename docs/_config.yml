@@ -37,6 +37,10 @@ themanav:
         path: /
       - title: Thema
         path: /themas/
+      - title: Autobranche
+        path: /autobranche/
+      - title: Bedrijventerreinen
+        path: /bedrijventerreinen/
 
 
 plugins:
