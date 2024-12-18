@@ -2,12 +2,17 @@
 layout: page-with-side-nav
 title: Data Ondermijning Op de Kaart (DOOK)
 ---
-# Datavoorziening Ondermijning Op de Kaart (DOOK) - VNG Realisatie
+# Datavoorziening Onregelmatigheden Op de Kaart (DOOK) - VNG Realisatie
 
-De Datavoorziening Ondermijning Op de Kaart (DOOK) ...
+Het bestrijden van ondermijnende criminaliteit is een beleidsprioriteit van veel gemeenten. Data kunnen helpen om meer inzicht te krijgen in ondermijningsvraagstukken. De Datavoorziening Onregelmatigheden Op de Kaart (DOOK) geeft gemeenten op basis van data inzichten in onregelmatigheden. Onregelmatigheden zijn situaties waarin ’iets niet klopt’. In sommige gevallen kunnen dat onjuistheden in registraties zijn. Het kan ook zijn dat uit nader onderzoek blijkt dat er sprake is van ondermijnende activiteiten.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pellentesque tortor tristique felis luctus tempor. Nunc facilisis, odio ut bibendum porta, 
-turpis sapien ultrices turpis, sit amet ultricies leo nisi placerat diam. Donec molestie nunc ac lorem pretium, quis luctus mauris tincidunt. Morbi laoreet 
-magna eu ipsum hendrerit, at semper augue viverra. Mauris metus leo, volutpat sed venenatis vulputate, ullamcorper sed felis. Nam venenatis, elit interdum 
-pretium viverra, quam tortor lacinia nunc, id faucibus dolor augue vel justo. Sed id varius arcu, eget vestibulum tortor. Cras consectetur augue at eros euismod 
-dignissim. Nunc egestas ultrices dui sit amet condimentum. Vivamus pulvinar ullamcorper elit vel ullamcorper.
+# Doel
+VNG helpt gemeenten bij de aanpak van ondermijningsvraagstukken met behulp van de Datavoorziening Onregelmatigheden Op de Kaart (DOOK). DOOK toont digitale kaarten met gedetailleerde lokale data om ondermijningsvraagstukken aan te kunnen pakken op een manier die de rechtmatigheid van het gebruik van data waarborgt. DOOK verschaft gemeenten een betere informatiepositie voor ondermijningsaanpak.
+
+# DOOK
+De openbare versie van DOOK is te bezoeken op: https://dook.vng.nl/
+
+Meer informatie over DOOK is te vinden op de website van de VNG: https://vng.nl/projecten/datavoorziening-onregelmatigheden-op-de-kaart-ondermijning
+
+# Concat
+Neem contact op met onze projectleider Abel Koppert via vip@vng.nl.
