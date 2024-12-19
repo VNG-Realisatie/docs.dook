@@ -3,6 +3,7 @@ apiname: "DOOK Documentatie"
 versie-nr: "1.0.7"
 restAPI-Alternatief: "Nee"
 url: "http://localhost:4000"
+title: Datavoorziening Onregelmatigheden Op de Kaart - DOOK
 
 # nav is t.b.v. generatie side-navigation menu.
 # Een 'title' zonder path of url genereert slechts een kopje.
