@@ -15,4 +15,4 @@ De openbare versie van DOOK is [hier](https://dook.vng.nl/) te bekijken.
 Meer informatie over DOOK is te vinden op de [website van de VNG](https://vng.nl/projecten/datavoorziening-onregelmatigheden-op-de-kaart-ondermijning).
 
 ### Contact
-Voor meer informatie over DOOK kunt u contact opnemen met onze [projectleider Abel Koppert](vip@vng.nl).
+Voor meer informatie over DOOK kunt u contact opnemen via de [contactpagina](./contact).
