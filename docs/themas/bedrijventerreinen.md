@@ -1,5 +1,5 @@
 ---
-layout: page-with-side-nav
+layout: thema-page-with-side-nav
 title: Data Ondermijning Op de Kaart (DOOK)
 ---
 
