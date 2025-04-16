@@ -17,8 +17,6 @@ nav:
         path: /
       - title: Themas
         path: /themas
-      - title: API Documentatie
-        path: /API 
       - title: Contact
         path: /contact
 
@@ -46,8 +44,6 @@ themanav:
         path: /themas/autobranche
       - title: Bedrijventerreinen
         path: /themas/bedrijventerreinen
-      - title: API 
-        path: /API/
       - title: Contact
         path: /contact
 
