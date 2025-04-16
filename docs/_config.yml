@@ -36,7 +36,7 @@ themanav:
     subnav:
       - title: Home
         path: /
-      - title: Thema
+      - title: Themas
         path: /themas/
 
 
