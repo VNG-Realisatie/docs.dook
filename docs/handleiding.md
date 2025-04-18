@@ -36,7 +36,7 @@ Gemeentelijke administrators zijn verantwoordelijk voor het gebruik van DOOK bin
 
 → Klik in het linker menu op **Administratie dashboard**.
 
-![DOOK Aministratormenu](./_assets/dook_admin_menu.png)
+![DOOK Aministratormenu](/docs.dook/_assets/dook_admin_menu.png)
 
 In het administratie dashboard heb jij als administrator een overzicht van alle DOOK gebruikers binnen de gemeente. Je kunt hier gebruikers aanmaken en beheren.
 
@@ -75,7 +75,7 @@ Links in beeld zie je de naam van jouw gemeente en de geselecteerde data rol.
 
 → Navigeer met behulp van de zoekbalk naar adres.
 
-![DOOK Zoekbalk](./_assets/dook_zoekbalk.png)
+![DOOK Zoekbalk](/docs.dook/_assets/dook_zoekbalk.png)
 
 → Gebruik de muis of de touchpad om de kaart te bewegen en in te zoomen. Zoom in op jouw gemeente.
 
@@ -133,7 +133,7 @@ Wanneer je onderzoek wilt doen naar een specifiek gebied is het mogelijk om in D
 
 → Klik links in het keuzemenu op de knop **Gebied analyseren**.
 
-![DOOK Gebied analyseren](./_assets/dook_gebied_analyseren.png)
+![DOOK Gebied analyseren](/docs.dook/_assets/dook_gebied_analyseren.png)
 
 → Volg de instructies in DOOK om een gebied naar keuze te selecteren. Om de selectie compleet te maken klik je op het laatste punt dat je hebt gemaakt.
 
@@ -180,7 +180,7 @@ Op de kaart wordt getoond waar in de gemeente bedrijven onder deze SBI code staa
 
 Tot slot gaan we de kaart in DOOK aanpassen. Onderin beeld zie je een horizontale balk met enkele opties. Deze balk wordt gebruikt om de kaart aan te passen.
 
-![DOOK Kaartopties](./_assets/dook_kaartopties.png)
+![DOOK Kaartopties](/docs.dook/_assets/dook_kaartopties.png)
 
 → Klik op het schuifje bij ‘Object hoogte’ om de hoogte van objecten in de kaart zichtbaar te maken.
 → Klik op het schuifje bij ‘Luchtfoto’ om een satellietbeeld van de omgeving te creëren.
