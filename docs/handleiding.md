@@ -16,7 +16,7 @@ DOOK is ontwikkeld om relevante (open) data beschikbaar te maken voor gemeenten.
 Tip: Sla DOOK op als bookmark in jouw browser. Zo kun je in het vervolg snel naar DOOK navigeren.
 
 → Klik rechtsboven op **Inloggen/Registeren**
-<br/>
+<br/><br/>
 
 ## Inloggen
 
@@ -30,7 +30,7 @@ Je bent nu in de DOOK omgeving van jouw gemeente. Links in beeld zie je jouw naa
 
 - Ben je **administrator -** dan kun je vanuit hier naar het **administratie dashboard**.
 - Ben je onderzoeker - dan kun je hier verder met het kiezen van een datarol en jouw accountinstellingen inzien en wijzigen.
-<br/>
+<br/><br/>
 
 ## Administrator
 
@@ -51,7 +51,7 @@ In het administratie dashboard heb jij als administrator een overzicht van alle 
 Nadat deze actie is voltooid ontvangt de nieuwe gebruiker een e-mail waarmee het account geactiveerd kan worden.
 
 **Let op:** Dit is een geautomatiseerde e-mail en deze komt soms in de **spam-box** terecht. Controleer dit als de gebruiker aangeeft geen e-mail te ontvangen.
-<br/>
+<br/><br/>
 
 ### Gebruikers wijzigen (Administrator)
 
@@ -62,7 +62,7 @@ Het is mogelijk om de rechten van een gebruiker aan te passen. In het Administra
 → Klik op het kruisje om een account te verwijderen.
 
 Als administrator ben je verantwoordelijk voor de accounts van de gemeente. Zo heeft de gemeente zelf controle wie toegang heeft tot welke kaartlagen.
-<br/>
+<br/><br/>
 
 ## DOOK ontdekken
 
@@ -124,7 +124,7 @@ Je ziet nu alle RDW erkende bedrijven in de omgeving.
 → Selecteer de kaartlaag **Ondernemingen met BOVAG-lidmaatschap**.
 
 Deze kaartlaag toont alle bedrijven met een BOVAG-lidmaatschap.
-<br/>
+<br/><br/>
 
 
 ### Dataset downloaden
@@ -150,7 +150,7 @@ DOOK vertelt jou nu hoeveel verblijfsobjecten zich bevinden binnen dit gebied. D
 → Klik in het pop-up scherm bij download op **CSV** of **Excel** om de beschikbare gegevens van de verblijfsobjecten binnen het door jou geselecteerde gebied te downloaden in het gewenste format.
 
 → Klik in DOOK op **Gebied verwijderen** om de selectie ongedaan te maken.
-<br/>
+<br/><br/>
 
 #### Dataset onderzoeken
 
@@ -160,7 +160,7 @@ Laten we de geëxporteerde dataset onder de loep nemen. Het bestand dat je hebt 
 Je ziet nu in Excel het complete overzicht van alle objecten die jij hebt geëxporteerd en de bijbehorende gegevens uit de BAG, Handelsregister, RDW en BOVAG registraties. Dit is de basisdataset zoals deze wordt beschreven in de [Handreiking Informatiebeeld Autobranche](https://kennisplatformondermijning.nl/files/view/52f04179-a7ce-438f-99e8-ef8111896e71/handreiking-informatiebeeld-autobranche.pdf). Deze dataset kan gebruikt worden om informatie op te zoeken over bedrijven en integrale controles voor te bereiden. In de handreikingen wordt toegelicht welke indicatoren onderzocht kunnen worden aan de hand van de beschikbare data.
 
 **Let op:** Zodra je een dataset hebt gedownload is het jouw verantwoordelijkheid om de gegevens naar de richtlijnen van de gemeente te bewaren en beheren.
-<br/>
+<br/><br/>
 
 ### Thema: Bedrijventerreinen
 
@@ -185,7 +185,7 @@ De kappersbranche valt in dit geval onder ’**S Overige dienstverlening**’.
 → Klik op de ‘>’ om uit te vouwen totdat je de SBI-code **96021 Haarverzorging** kunt selecteren.
 
 Op de kaart wordt getoond waar in de gemeente bedrijven onder deze SBI code staan ingeschreven. Je kunt dit op twee manieren exporteren. Je kunt klikken op **SBI-code selectie**, nu download je alle bedrijven die staan ingeschreven onder deze SBI-code. Of, je kiest voor **Gebied analyseren**, nu kun je de bedrijven uit een specifiek gebied exporteren.
-<br/>
+<br/><br/>
 
 ## Kaartview wijzigen
 
@@ -197,7 +197,7 @@ Tot slot gaan we de kaart in DOOK aanpassen. Onderin beeld zie je een horizontal
 → Klik op het schuifje bij ‘Luchtfoto’ om een satellietbeeld van de omgeving te creëren.
 
 Door verder in te zoomen krijg je een goed beeld van de hoogte. Klik met je rechter muisknop op de kaart en houdt deze ingedrukt om de kaart te draaien en vanuit een andere hoek de omgeving te bekijken.
-<br/>
+<br/><br/>
 
 ## Afronding
 
