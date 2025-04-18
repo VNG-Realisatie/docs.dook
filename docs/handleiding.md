@@ -17,6 +17,7 @@ Tip: Sla DOOK op als bookmark in jouw browser. Zo kun je in het vervolg snel naa
 
 → Klik rechtsboven op **Inloggen/Registeren**
 
+
 ## Inloggen
 
 Administrators ontvangen login gegevens van het DOOK team. Overige gebruikers (onderzoekers) van gemeenten krijgen een account van de eigen administrator. Heb je nog geen account? Vraag aan de administrators van jouw gemeente om toegang.
@@ -30,6 +31,7 @@ Je bent nu in de DOOK omgeving van jouw gemeente. Links in beeld zie je jouw naa
 - Ben je **administrator -** dan kun je vanuit hier naar het **administratie dashboard**.
 - Ben je onderzoeker - dan kun je hier verder met het kiezen van een datarol en jouw accountinstellingen inzien en wijzigen.
 
+
 ## Administrator
 
 Gemeentelijke administrators zijn verantwoordelijk voor het gebruik van DOOK binnen de gemeente en beheren de accounts van hun collega’s. Deze stap in de training is alleen bedoeld voor administrators. Je leert hier hoe je nieuwe gebruikers aanmaakt en beheert.
@@ -40,6 +42,7 @@ Gemeentelijke administrators zijn verantwoordelijk voor het gebruik van DOOK bin
 
 In het administratie dashboard heb jij als administrator een overzicht van alle DOOK gebruikers binnen de gemeente. Je kunt hier gebruikers aanmaken en beheren.
 
+
 ### Gebruikers aanmaken (Administrator)
 
 → Klik op **Nieuwe gebruiker toevoegen**.
@@ -48,6 +51,7 @@ In het administratie dashboard heb jij als administrator een overzicht van alle 
 Nadat deze actie is voltooid ontvangt de nieuwe gebruiker een e-mail waarmee het account geactiveerd kan worden.
 
 **Let op:** Dit is een geautomatiseerde e-mail en deze komt soms in de **spam-box** terecht. Controleer dit als de gebruiker aangeeft geen e-mail te ontvangen.
+
 
 ### Gebruikers wijzigen (Administrator)
 
@@ -59,6 +63,7 @@ Het is mogelijk om de rechten van een gebruiker aan te passen. In het Administra
 
 Als administrator ben je verantwoordelijk voor de accounts van de gemeente. Zo heeft de gemeente zelf controle wie toegang heeft tot welke kaartlagen.
 
+
 ## DOOK ontdekken
 
 We gaan aan de slag met DOOK.
@@ -68,6 +73,7 @@ We gaan aan de slag met DOOK.
 → Selecteer het thema **Autobranche**. De rol wordt blauw wanneer deze is geselecteerd. Klik vervolgens op de gele **Ga naar DOOK** knop.
 
 Een data rol bepaalt tot welke thema jij toegang hebt, bijvoorbeeld ‘Autobranche’ of ‘Bedrijventerreinen’. Als onderzoeker krijg je alleen toegang tot de data rol(len) waar jij bevoegd voor bent onderzoek naar te doen.
+
 
 ### Thema: Autobranche
 
@@ -119,7 +125,9 @@ Je ziet nu alle RDW erkende bedrijven in de omgeving.
 
 Deze kaartlaag toont alle bedrijven met een BOVAG-lidmaatschap.
 
-Dataset downloaden
+
+
+### Dataset downloaden
 
 We gaan nu aan de slag met de kaartlaag voor het exporteren van de basis dataset. Deze kaartlaag combineert alle bronnen die we tot nu toe los van elkaar hebben bekeken.
 
@@ -143,6 +151,7 @@ DOOK vertelt jou nu hoeveel verblijfsobjecten zich bevinden binnen dit gebied. D
 
 → Klik in DOOK op **Gebied verwijderen** om de selectie ongedaan te maken.
 
+
 #### Dataset onderzoeken
 
 Laten we de geëxporteerde dataset onder de loep nemen. Het bestand dat je hebt gedownload is een CSV-bestand of een Excel bestand. Het Excel bestand is gemakkelijker te openen.
@@ -151,6 +160,7 @@ Laten we de geëxporteerde dataset onder de loep nemen. Het bestand dat je hebt 
 Je ziet nu in Excel het complete overzicht van alle objecten die jij hebt geëxporteerd en de bijbehorende gegevens uit de BAG, Handelsregister, RDW en BOVAG registraties. Dit is de basisdataset zoals deze wordt beschreven in de [Handreiking Informatiebeeld Autobranche](https://kennisplatformondermijning.nl/files/view/52f04179-a7ce-438f-99e8-ef8111896e71/handreiking-informatiebeeld-autobranche.pdf). Deze dataset kan gebruikt worden om informatie op te zoeken over bedrijven en integrale controles voor te bereiden. In de handreikingen wordt toegelicht welke indicatoren onderzocht kunnen worden aan de hand van de beschikbare data.
 
 **Let op:** Zodra je een dataset hebt gedownload is het jouw verantwoordelijkheid om de gegevens naar de richtlijnen van de gemeente te bewaren en beheren.
+
 
 ### Thema: Bedrijventerreinen
 
@@ -176,7 +186,8 @@ De kappersbranche valt in dit geval onder ’**S Overige dienstverlening**’.
 
 Op de kaart wordt getoond waar in de gemeente bedrijven onder deze SBI code staan ingeschreven. Je kunt dit op twee manieren exporteren. Je kunt klikken op **SBI-code selectie**, nu download je alle bedrijven die staan ingeschreven onder deze SBI-code. Of, je kiest voor **Gebied analyseren**, nu kun je de bedrijven uit een specifiek gebied exporteren.
 
-**Kaartview wijzigen**
+
+## Kaartview wijzigen
 
 Tot slot gaan we de kaart in DOOK aanpassen. Onderin beeld zie je een horizontale balk met enkele opties. Deze balk wordt gebruikt om de kaart aan te passen.
 
@@ -186,6 +197,7 @@ Tot slot gaan we de kaart in DOOK aanpassen. Onderin beeld zie je een horizontal
 → Klik op het schuifje bij ‘Luchtfoto’ om een satellietbeeld van de omgeving te creëren.
 
 Door verder in te zoomen krijg je een goed beeld van de hoogte. Klik met je rechter muisknop op de kaart en houdt deze ingedrukt om de kaart te draaien en vanuit een andere hoek de omgeving te bekijken.
+
 
 ## Afronding
 
