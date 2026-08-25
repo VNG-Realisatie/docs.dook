@@ -53,6 +53,11 @@ themanav:
       - title: Contact
         path: /contact
 
+navfooter:
+  - subnav:
+      - title: Veelgestelde vragen
+        path: /faq
+
 
 plugins:
   - jekyll-redirect-from
