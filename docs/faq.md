@@ -6,12 +6,12 @@ datum: 25-08-2026
 
 ## Veelgestelde vragen
 
-Soms gaat er wel eens iets niet zoals je verwacht. Kijk bij de onderstaande vragen of het antwoord of oplossing beschreven staat. Staat je vraag of oplossing er niet bij? Neem dan contact op met Dego@vng.nl.
+Soms gaat er wel eens iets niet zoals je verwacht. Kijk bij de onderstaande vragen of het antwoord of oplossing beschreven staat. Staat je vraag of oplossing er niet bij? Neem dan contact op met dook@vng.nl.
 
 ---
 
 ### Ik heb een account aangemaakt maar kan nog steeds de afgesloten kaartlagen niet inzien
-Het aangemaakt account moet nog gekoppeld worden aan DEGO. Neem hiervoor contact op met Dego@vng.nl, bij voorkeur vanaf het email adres waarmee het account is aangemaakt.
+Alleen gemeenten waarmee een overeenkomst is afgesloten kunnen gebruik maken van de afgesloten kaartlagen in DOOK. Helaas is het op dit moment niet mogelijk voor ons om nieuwe gemeenten aan te sluiten. Wel kunt u uw interesse als gemeente doorgeven aan dook.vng.nl. Zodra er gelegenheid is nieuwe gemeenten aan te sluiten nemen wij dan contact met u op.
 
 
 ### Wanneer ik een pand selecteer met "gebied analyseren" zie ik wel resultaten in de popup maar in het bestand wat ik kan downloaden staat geen data.
